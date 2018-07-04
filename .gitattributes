@@ -1,2 +1,4 @@
-*.html linguist-language=Objective-C
+*.js linguist-language=Python
+*.css linguist-language=Python
+*.html linguist-language=Python
 
